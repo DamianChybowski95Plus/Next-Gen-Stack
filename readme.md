@@ -1,4 +1,4 @@
-NextGenStack is a set of actively developed tools, that are build with engagemend, and wish to provide next generation developer experience and performance.
+NextGenStack is a set of actively developed tools, that are build with enagagement, and wish to provide next generation developer experience and performance.
 In case of this starter, brought together with Next.js
 
 NextGenStack has :
